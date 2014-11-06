@@ -1,0 +1,43 @@
+// @author Bilal Cinarli
+// @author Kursad Yildirmak
+$rotator-version: 0.2;
+
+
+/* ----------------- Rotator Defaults ----------------- */
+.rotator-slides {
+  position: relative;
+  overflow: hidden;
+  width: 100%;
+  height: 100%;
+}
+
+.rotator-slide {
+  position:absolute;
+  top:0;
+  left:0;
+}
+
+.rotator-bullets {
+  position:absolute;
+  right:10px;
+  bottom:10px;
+  text-align:center;
+
+}
+
+.rotator-bullets span {
+    display:inline-block !important;
+    margin:5px;
+    width:10px;
+    height:10px;
+    background:#222222;
+    border-radius: 100%;
+    font-size:0;
+    cursor:pointer;
+
+    &.current {
+        background:#8e8d8d;
+    }
+}
+
+/* ----------------- Rotator Defaults ----------------- */

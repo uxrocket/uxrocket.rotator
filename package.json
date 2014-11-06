@@ -1,0 +1,25 @@
+{
+  "name": "uxrocket.rotator",
+  "version": "0.3.0",
+  "description": "jQuery based content rotator",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/uxrocket/uxrocket.rotator.git"
+  },
+  "dependencies": {
+	"jquery": "latest"
+  },
+  "keywords": [
+    "jQuery",
+    "javascript",
+    "rotator",
+	"slider",
+	"uxrocket"
+  ],
+  "author": "Bilal Cinarli <bcinarli@gmail.com> (http://bcinarli.com/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/uxrocket/uxrocket.rotator/issues"
+  },
+  "homepage": "https://github.com/uxrocket/uxrocket.rotator"
+}

@@ -1,0 +1,28 @@
+{
+  "name": "uxrocket.rotator",
+  "version": "0.3.0",
+  "homepage": "https://github.com/uxrocket/uxrocket.rotator",
+  "authors": [
+    "Bilal Çınarlı <bcinarli@gmail.com>"
+  ],
+  "description": "jQuery based content rotator",
+  "main": "lib/uxrocket.rotator.js",
+  "dependencies": {
+    "jquery": ">=1.11.1"
+  },
+  "keywords": [
+    "jQuery",
+    "javascript",
+    "rotator",
+	"slider",
+    "uxrocket"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
